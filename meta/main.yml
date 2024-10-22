@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Nho Luong
+  description: Enforce configuration of a journald instance
+  company: Nho Luong
+  license: MIT
+  min_ansible_version: 2.1
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  galaxy_tags:
+    - journald
